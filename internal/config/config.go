@@ -11,7 +11,7 @@ const (
 )
 
 func LoadEnv() {
-	err := godotenv.Load(envPath)
+	err := godotenv.Load()
 	if err != nil {
 		log.Fatal(e1, err)
 	}
