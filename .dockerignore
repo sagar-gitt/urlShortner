@@ -1,0 +1,6 @@
+# Ignore build and config artifacts
+.env
+*.log
+*.md
+bin/
+vendor/

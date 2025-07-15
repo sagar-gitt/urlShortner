@@ -1,0 +1,11 @@
+# Binary files
+*.exe
+*.out
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Env and credentials
+.env
+ca.pem
